@@ -3,3 +3,5 @@
 *.docx
 *.docx
 Entregas
+*.PNG
+__pycache__
