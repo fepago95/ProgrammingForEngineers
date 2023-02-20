@@ -2,6 +2,7 @@
 *.pdf
 *.docx
 *.docx
-Entregas
+*.csv
 *.PNG
+Entregas
 __pycache__
